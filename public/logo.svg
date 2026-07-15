@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="logograd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="oklch(0.35 0.14 290)"/>
+      <stop offset="100%" stop-color="oklch(0.82 0.15 85)"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="22" fill="url(#logograd)" opacity="0.12"/>
+  <path d="M16 12C16 10.8954 16.8954 10 18 10H22L20 20H28L24 38L28 28H24C22.8954 28 22 27.1046 22 26L26 14H18C16.8954 14 16 14.8954 16 16V24C16 27.866 19.134 31 23 31C26.866 31 30 27.866 30 24" stroke="url(#logograd)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
